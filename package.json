@@ -2,7 +2,7 @@
   "name": "hw-react7",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://isaevakyial.github.io/Hw-7-react-project",
+  "homepage": "https://isaevakyial.github.io/hw-7-react-project",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
