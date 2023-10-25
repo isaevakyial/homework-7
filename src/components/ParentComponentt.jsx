@@ -5,10 +5,10 @@ import ChildComponentt from "./ChildComponent";
 const Parent = styled.div`
   background-color: #a8ca20;
   padding: 20px;
-  border:2px solid purple;
-  width:350px;
-  height:240px;
-  text-align:center;
+  border: 2px solid purple;
+  width: 350px;
+  height: 240px;
+  text-align: center;
 `;
 
 const ParentComponentt = () => {
